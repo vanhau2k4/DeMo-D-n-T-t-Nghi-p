@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerPortaLadoma
+  m_Controller: {fileID: 9100000, guid: b01f8211354403a449445b5811171fee, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4fd58b3a6f9a94f4a8cd09bffe0ac390, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4fd58b3a6f9a94f4a8cd09bffe0ac390, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 354237673eff3944ea0a3d52ff7b7dfe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 354237673eff3944ea0a3d52ff7b7dfe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 41e6dedfcf525a6408aaf0b1358c6bbd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 41e6dedfcf525a6408aaf0b1358c6bbd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 781e33d933bb9d4479af87e8407371be, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 781e33d933bb9d4479af87e8407371be, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 483126d2709697a48940dfee61b70ac7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 483126d2709697a48940dfee61b70ac7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d5cd228ef5960c84cb37aba1f0d83106, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d5cd228ef5960c84cb37aba1f0d83106, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a5949052257f3be459b9666325a67b20, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a5949052257f3be459b9666325a67b20, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: adf969f4ecb278a46beea41195c94dd5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: adf969f4ecb278a46beea41195c94dd5, type: 2}

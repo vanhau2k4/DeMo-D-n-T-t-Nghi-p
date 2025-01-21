@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddbee44f0645e4d409f365c56f70e31b, type: 3}
+  m_Name: Pumarota
+  m_EditorClassIdentifier: 
+  icon: {fileID: 938343867, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  maxLevel: 5
+  evolutinData:
+  - name: Soul Eater
+    condition: 1
+    consumes: 0
+    evolutionLevel: 2
+    catalysts:
+    - itemType: {fileID: 11400000, guid: 615ce466a8a08c244b9cfb440dc9c63e, type: 2}
+      level: 2
+    outcome:
+      itemType: {fileID: 11400000, guid: 4d9bf2e7b3b7896478102916f9e430c2, type: 2}
+      level: 1
+  baseStats:
+    name: Pumarota
+    description: hoi mau moi giay
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      armor: 0
+      moveSpeed: 0
+      might: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      luck: 0
+      growth: 0
+      greed: 0
+      curse: 0
+      magnet: 0
+      revival: 0
+  growth:
+  - name: Level 2
+    description: hoi mau them 0.2
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      armor: 0
+      moveSpeed: 0
+      might: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      luck: 0
+      growth: 0
+      greed: 0
+      curse: 0
+      magnet: 0
+      revival: 0
+  - name: Level 3
+    description: hoi mau them 0.2
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      armor: 0
+      moveSpeed: 0
+      might: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      luck: 0
+      growth: 0
+      greed: 0
+      curse: 0
+      magnet: 0
+      revival: 0
+  - name: Level 4
+    description: hoi mau them 0.2
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      armor: 0
+      moveSpeed: 0
+      might: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      luck: 0
+      growth: 0
+      greed: 0
+      curse: 0
+      magnet: 0
+      revival: 0
+  - name: Level 5
+    description: hoi mau them 0.2
+    boosts:
+      maxHealth: 0
+      recovery: 0.2
+      armor: 0
+      moveSpeed: 0
+      might: 0
+      area: 0
+      speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
+      luck: 0
+      growth: 0
+      greed: 0
+      curse: 0
+      magnet: 0
+      revival: 0

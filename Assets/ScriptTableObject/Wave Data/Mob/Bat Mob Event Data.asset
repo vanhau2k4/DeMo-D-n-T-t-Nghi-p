@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 645d8eae69b3bb345b7fcafdab0a3ba1, type: 3}
+  m_Name: Bat Mob Event Data
+  m_EditorClassIdentifier: 
+  possibleSpawnPrefabs:
+  - {fileID: 8291236168406651660, guid: 055d3cd34150167428b9bf603e5adc00, type: 3}
+  spawnInterval: {x: 2, y: 3}
+  spawnsPerTick: {x: 15, y: 20}
+  duration: 10
+  probability: 1
+  luckFactor: 1
+  activeAfter: 0
+  possibleAngles: 360
+  spawnRadius: 2
+  spawnDistance: 20

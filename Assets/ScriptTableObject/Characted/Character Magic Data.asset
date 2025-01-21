@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e47c8dbdbe6b41943a0412a9195a8038, type: 3}
+  m_Name: Character Magic Data
+  m_EditorClassIdentifier: 
+  icon: {fileID: 124927692, guid: 2e77eb8b8e01296408a8898b8eb81a1f, type: 3}
+  controller: {fileID: 22100000, guid: 75e547a928542fa498f4720bd4a60b34, type: 2}
+  name: Magic
+  fullName: Magic legendary
+  characterDescription: permanent 20% Cooldown and 10% Speed .Start with Lightning
+    Ring
+  startingWeapon: {fileID: 11400000, guid: 958bb1d0fe6a62b40bb365cb0eb686c5, type: 2}
+  stats:
+    maxHealth: 100
+    recovery: 0
+    armor: 0
+    moveSpeed: 1.1
+    might: 1
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 0.8
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 5
+    revival: 0

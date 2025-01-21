@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e47c8dbdbe6b41943a0412a9195a8038, type: 3}
+  m_Name: Character Troi Data
+  m_EditorClassIdentifier: 
+  icon: {fileID: 8801993, guid: 400edb2faef26f944bd65a5c3648965b, type: 3}
+  controller: {fileID: 9100000, guid: ce4298e5645076241bdc9cd392b6b337, type: 2}
+  name: Troi
+  fullName: Con Troi
+  characterDescription: permanent 30% Area and 2 Armor .Start with Gralic
+  startingWeapon: {fileID: 11400000, guid: 615ce466a8a08c244b9cfb440dc9c63e, type: 2}
+  stats:
+    maxHealth: 120
+    recovery: 0
+    armor: 2
+    moveSpeed: 1
+    might: 1.3
+    area: 1.3
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 5
+    revival: 0

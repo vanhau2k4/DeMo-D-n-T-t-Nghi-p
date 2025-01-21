@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6e18917a91f5df44b24c7b77dc50841, type: 3}
+  m_Name: Soul Eater
+  m_EditorClassIdentifier: 
+  icon: {fileID: -157086128, guid: be55291aae08d434db3da3b59db3ab4a, type: 3}
+  maxLevel: 1
+  evolutinData: []
+  behaviour: AuraWeapon
+  baseStats:
+    name: Soul Eater
+    description: gay sat thuong xung quanh
+    projectilePrefab: {fileID: 0}
+    auraPrefab: {fileID: 7951810148788178212, guid: 97ca2107a720b3a4baf09f0588db449a, type: 3}
+    hitEffect: {fileID: 0}
+    spawnVariace:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    lifespan: 0
+    damage: 50
+    damageVariance: 5
+    area: 10
+    speed: 0
+    cooldown: 1
+    projectileInterval: 0
+    knocback: 0
+    number: 0
+    piercing: 0
+    maxInstances: 50
+    appliedBuffs: []
+  linearGrowth: []
+  randomGrowth: []

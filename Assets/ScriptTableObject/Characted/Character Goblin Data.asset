@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e47c8dbdbe6b41943a0412a9195a8038, type: 3}
+  m_Name: Character Goblin Data
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1113002816, guid: bfb8681f46d58034a995bf32c15f270f, type: 3}
+  controller: {fileID: 22100000, guid: 7ebdd168a358ef14490464c6764fc1b5, type: 2}
+  name: Goblin
+  fullName: Con Goblin
+  characterDescription: permanent 20% Might .Start with Axe
+  startingWeapon: {fileID: 11400000, guid: ccebe55f8e55b22469201a23707f4354, type: 2}
+  stats:
+    maxHealth: 100
+    recovery: 0
+    armor: 0
+    moveSpeed: 1
+    might: 1.2
+    area: 1
+    speed: 1
+    duration: 1
+    amount: 0
+    cooldown: 1
+    luck: 1
+    growth: 1
+    greed: 1
+    curse: 1
+    magnet: 5
+    revival: 0
